@@ -23,5 +23,7 @@ public class AT01 {
             result = value01 + value02;
 
             System.out.printf("%nA soma dos números digitados é: %d", result);
+
+            sc.close();
         }
 }
