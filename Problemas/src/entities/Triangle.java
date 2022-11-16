@@ -1,8 +1,8 @@
 package entities;
 
 public class Triangle {
-    public static int a;
-    public static int b;
-    public static int c;
+    public double a;
+    public double b;
+    public double c;
 
 }
